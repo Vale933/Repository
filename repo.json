@@ -1,0 +1,23 @@
+{
+  "appName": "Nuovolus",
+  "bundleId": "com.yourcompany.nuovolus",
+  "developerName": "Your Company",
+  "version": "1.0.0",
+  "description": "Nuovolus is a futuristic browser app designed to revolutionize your web browsing experience. With its innovative split screen functionality, Nuovolus allows you to multitask efficiently, comparing content side by side without switching tabs. Perfect for research, social media browsing, and productivity, Nuovolus is the browser of the future, today.",
+  "features": [
+    "Split screen functionality for efficient multitasking",
+    "Customizable interface with dark mode",
+    "Advanced privacy settings to protect your online activity",
+    "Sync bookmarks and history across devices",
+    "Gesture controls for easy navigation"
+  ],
+  "ipa": "https://example.com/nuovolus.ipa",
+  "icon": "https://example.com/nuovolus-icon.png",
+  "screenshots": [
+    "https://example.com/screenshot1.png",
+    "https://example.com/screenshot2.png"
+  ],
+  "minimumOSVersion": "iOS 13.0",
+  "supportedDevices": ["iPhone", "iPad"],
+  "releaseDate": "2024-02-14"
+}
